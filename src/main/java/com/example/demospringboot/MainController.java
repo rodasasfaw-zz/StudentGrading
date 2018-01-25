@@ -19,8 +19,8 @@ public class MainController {
         String userName="";
         Scanner keyboard = new Scanner(System.in);
         userName = keyboard.nextLine();
-        System.out.println("Hey rodas" +" "+userName);
-        return"Hey rodas"+ " "+userName;
+        System.out.println("Hey john" +" "+userName);
+        return"Hey john"+ " "+userName;
 
 
     }
