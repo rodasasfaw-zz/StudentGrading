@@ -32,8 +32,6 @@ public class MainController {
                letter_grade = 'D';
                  else
                 letter_grade = 'F';
-
-System.out.println("student's grade is:" + letter_grade);
-return "student's grade is:" + letter_grade;
+                 return "student's grade is:" + letter_grade;
     }
 }
